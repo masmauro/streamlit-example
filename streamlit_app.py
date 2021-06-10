@@ -3,7 +3,7 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
-pip install MetaTrader5
+sudo pip install MetaTrader5
 import MetaTrader5 as mt5
 
 """
