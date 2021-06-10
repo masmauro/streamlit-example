@@ -3,7 +3,6 @@ import altair as alt
 import math
 import pandas as pd
 import streamlit as st
-import MetaTrader5 as mt5
 
 """
 # Welcome to Streamlit, masmauro!
